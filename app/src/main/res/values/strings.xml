@@ -10,5 +10,6 @@
     <string name="total_value">R$ 0</string>
     <string name="calculate">Calcular</string>
 
-    <string name="validation_fill_all_fields">Preencha todos os campos.</string>
+    <string name="validation_fill_all_fields">Todos os Campos tem que ser preenchidos.
+        e a Autonomia diferente de zero.</string>
 </resources>
